@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Jhoaoo {
 
     public static void main(String[] args) {
-
+        // hola mundo
         Scanner leer = new Scanner(System.in);
         int semana[]=new int[7];
         int dias=0;
